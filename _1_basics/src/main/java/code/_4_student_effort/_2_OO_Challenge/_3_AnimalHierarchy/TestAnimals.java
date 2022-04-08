@@ -15,8 +15,5 @@ public class TestAnimals {
         c.play();
         e.eat();
 
-
-
-
     }
 }
