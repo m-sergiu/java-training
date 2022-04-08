@@ -1,4 +1,4 @@
-package code._4_student_effort;
+package code._4_student_effort._1_Basics_Challenge;
 
 import java.util.ArrayList;
 import java.util.List;

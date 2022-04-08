@@ -1,4 +1,5 @@
-package code._4_student_effort;
+package code._4_student_effort._1_Basics_Challenge;
+
 
 public class Main {
 
@@ -27,7 +28,7 @@ public class Main {
     //int[] n= {-1,-1,-1,2,1};
     //int result = BasicsChallenge.Challenge4(n);
     // System.out.println(result);
-
+}
 
   }
-}
+
